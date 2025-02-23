@@ -1,5 +1,5 @@
 /*
-Time Complexity: O(n)
+Time Complexity: O(n*n)
 Space Complexity: O(1)
 */
 
@@ -30,9 +30,3 @@ int main()
     }
 
 }
-
-/*
-Sample:
-Input: a[] = {1,1,2,3,3}
-Output: 1 2 3
-*/
