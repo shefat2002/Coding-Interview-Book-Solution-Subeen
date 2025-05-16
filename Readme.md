@@ -16,21 +16,21 @@
 | 7 | [Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals/)| | |
 | 8 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| | |
 | 9 | [Grid Paths](https://leetcode.com/problems/unique-paths/) | | |
-| 10 | [Array Search](https://leetcode.com/problems/search-insert-position/description/)| | [C++](Solutions\0.Leetcode\35.search-insert-position.cpp) |
-| 11 | [Search for A Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | [C++](Solutions\0.Leetcode\34.find-first-and-last-position-of-element-in-sorted-array.cpp) |
-| 12 | [Rotated Array Search](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | [C++](Solutions\0.Leetcode\33.search-in-rotated-sorted-array.cpp) |
-| 13 | [Square Root](https://leetcode.com/problems/sqrtx/description/) | | [C++](Solutions\0.Leetcode\69.sqrtx.cpp) |
+| 10 | [Array Search](https://leetcode.com/problems/search-insert-position/description/)| | [C++](Solutions/0.Leetcode/35.search-insert-position.cpp) |
+| 11 | [Search for A Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | [C++](Solutions/0.Leetcode/34.find-first-and-last-position-of-element-in-sorted-array.cpp) |
+| 12 | [Rotated Array Search](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | [C++](Solutions/0.Leetcode/33.search-in-rotated-sorted-array.cpp) |
+| 13 | [Square Root](https://leetcode.com/problems/sqrtx/description/) | | [C++](Solutions/0.Leetcode/69.sqrtx.cpp) |
 | 14 | [Power Function](https://leetcode.com/problems/powx-n/description/) | | |
 | 15 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | |
-| 16 | [StrStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | | [C++](Solutions\0.Leetcode\28.find-the-index-of-the-first-occurrence-in-a-string.cpp) |
+| 16 | [StrStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | | [C++](Solutions/0.Leetcode/28.find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 | 17 | [String Rotation](https://leetcode.com/problems/rotate-string/description/) | | [C++](Solutions/0.Leetcode/796.rotate-string.cpp) |
-| 18 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | | [C++](Solutions\0.Leetcode\334.reverse-string.cpp) |
+| 18 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | | [C++](Solutions/0.Leetcode/334.reverse-string.cpp) |
 | 19 | [Add Binary String](https://leetcode.com/problems/add-binary/description/) | | |
 | 20 | [Power of 2](https://leetcode.com/problems/power-of-two/description/) | | |
 | 21 | [Valid Number](https://leetcode.com/problems/valid-number/description/) | | |
-| 22 | [Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | | [C++](Solutions\0.Leetcode\125.valid-palindrome.cpp) |
+| 22 | [Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | | [C++](Solutions/0.Leetcode/125.valid-palindrome.cpp) |
 | 23 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) | | |
-| 24 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | | [C++](Solutions\0.Leetcode\242.valid-anagram.cpp) |
+| 24 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | | [C++](Solutions/0.Leetcode/242.valid-anagram.cpp) |
 | 25 | [All Anagram in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | | |
 
 
