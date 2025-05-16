@@ -17,8 +17,8 @@
 | 8 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| | |
 | 9 | [Grid Paths](https://leetcode.com/problems/unique-paths/) | | |
 | 10 | [Array Search](https://leetcode.com/problems/search-insert-position/description/)| | [C++](Solutions\0.Leetcode\35.search-insert-position.cpp) |
-| 11 | [Search for A Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | |
-| 12 | [Rotated Array Search](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | |
+| 11 | [Search for A Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | [C++](Solutions\0.Leetcode\34.find-first-and-last-position-of-element-in-sorted-array.cpp) |
+| 12 | [Rotated Array Search](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | [C++](Solutions\0.Leetcode\33.search-in-rotated-sorted-array.cpp) |
 | 13 | [Square Root](https://leetcode.com/problems/sqrtx/description/) | | [C++](Solutions\0.Leetcode\69.sqrtx.cpp) |
 | 14 | [Power Function](https://leetcode.com/problems/powx-n/description/) | | |
 | 15 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | |
@@ -37,9 +37,9 @@
 #### LinkedList
 | # | Title | Solution | Leetcode |
 |---| ----- | -------- | ---------- |
-| | | | |
-| | | | |
-| | | | |
+| 26 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | | |
+| 27 | [Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | |
+| 28 | [Reverse Linked List 3]() | | |
 | | | | |
 | | | | |
 | | | | |
