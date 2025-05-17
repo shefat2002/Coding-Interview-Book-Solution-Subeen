@@ -25,7 +25,7 @@
 | 16 | [StrStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | | [C++](Solutions/0.Leetcode/28.find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 | 17 | [String Rotation](https://leetcode.com/problems/rotate-string/description/) | | [C++](Solutions/0.Leetcode/796.rotate-string.cpp) |
 | 18 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | | [C++](Solutions/0.Leetcode/334.reverse-string.cpp) |
-| 19 | [Add Binary String](https://leetcode.com/problems/add-binary/description/) | | |
+| 19 | [Add Binary String](https://leetcode.com/problems/add-binary/description/) | | [C++](Solutions\0.Leetcode\67.add-binary.cpp)|
 | 20 | [Power of 2](https://leetcode.com/problems/power-of-two/description/) | | |
 | 21 | [Valid Number](https://leetcode.com/problems/valid-number/description/) | | |
 | 22 | [Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | | [C++](Solutions/0.Leetcode/125.valid-palindrome.cpp) |
