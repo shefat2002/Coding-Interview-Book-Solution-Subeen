@@ -40,14 +40,14 @@
 | 26 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | | |
 | 27 | [Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | |
 | 28 | [Reverse Linked List 3]() | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| 29 | [Remove Duplicates from List 🔒](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/description/) | | |
+| 30 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | | |
+| 31 | [Remove Duplicates from Sorted List 2](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | | |
+| 32 | [Delete Middle Node](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| | |
+| 33 | [Remove N-th Node From the List End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | | |
+| 34 | [Palindrome List](http://leetcode.com/problems/palindrome-linked-list/) | | |
+| 35 | [Copy List](https://leetcode.com/problems/copy-list-with-random-pointer/) | | |
+| 36 | [List Cycle Detection](https://leetcode.com/problems/linked-list-cycle/) | | |
 
 ---
 
